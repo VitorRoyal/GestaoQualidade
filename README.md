@@ -4,4 +4,4 @@ Repositório do aluno Vitor de Souza para entregar as atividades da matéria de 
 
 # Como checar os trabalhos?
 
-Para checar os trabalhos basta você clicar nos arquivos que ele irá abrir em tela cheia, ou se for de sua preferencia você pode baixar os arquivos para analisar com mais calma.
+Para checar os trabalhos basta você clicar nos arquivos que ele irá abrir em tela cheia, ou se for de sua preferencia, você pode baixar os arquivos para analisar com mais calma.
